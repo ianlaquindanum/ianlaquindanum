@@ -1,16 +1,54 @@
-## Hi there 👋
+## Hi, I'm Ian Laquindanum
 
-<!--
-**ianlaquindanum/ianlaquindanum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fresh IT graduate passionate about Networking, Technical Support, and System Administrations
 
-Here are some ideas to get you started:
+## About Me
+- Fresh Graduate of Information Technology
+- Interested in Networking and IT support
+- Currently building networking labs using Cisco Packet Tracer
+- Currently enrolled at Mnet Online Course for CCNA
+- Learning CCNA concepts and troubleshooting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+
+### Networking
+- TCP/IP
+- Subnetting
+- Static routing
+- EIGRP
+- OSPF
+- ACLs
+### IT Support
+- Windows Troubleshooting
+- Hardware installation
+- Network Troubleshooting
+
+### Tools
+- Cisco Packet Tracer
+- GNS3
+- Microsoft Office
+- Windows
+
+## Projects
+
+### Cisco Packet Tracer Labs
+
+#### Static Routing Lab
+- Configured Static routing between routers
+- Verified route advertisements
+
+#### EIGRP Routing Lab
+- Configured dyanmic routing between routers
+- Verified route advertisements
+- Troubleshoot connectivity issues
+
+## Certifications and Badges
+- CCNA (In Progress)
+- Networking Basics
+- Networking Devices and Initial Configuration
+
+## Contact
+
+Email: ianlaquindanum2@gmail.com
+
+Linkedin: linkedin.com/in/ian-noel-laquindanum-104566330
